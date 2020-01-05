@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/deployed-scrimba-name-card/static/js/main.0c7b4c6b.chunk.js",
+    "main.js.map": "/deployed-scrimba-name-card/static/js/main.0c7b4c6b.chunk.js.map",
+    "runtime-main.js": "/deployed-scrimba-name-card/static/js/runtime-main.7fdbf790.js",
+    "runtime-main.js.map": "/deployed-scrimba-name-card/static/js/runtime-main.7fdbf790.js.map",
+    "static/js/2.82b65318.chunk.js": "/deployed-scrimba-name-card/static/js/2.82b65318.chunk.js",
+    "static/js/2.82b65318.chunk.js.map": "/deployed-scrimba-name-card/static/js/2.82b65318.chunk.js.map",
+    "index.html": "/deployed-scrimba-name-card/index.html",
+    "precache-manifest.60a4aef7cc0b29ebdaf1288d4a6cbdfb.js": "/deployed-scrimba-name-card/precache-manifest.60a4aef7cc0b29ebdaf1288d4a6cbdfb.js",
+    "service-worker.js": "/deployed-scrimba-name-card/service-worker.js",
+    "static/js/2.82b65318.chunk.js.LICENSE": "/deployed-scrimba-name-card/static/js/2.82b65318.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fdbf790.js",
+    "static/js/2.82b65318.chunk.js",
+    "static/js/main.0c7b4c6b.chunk.js"
+  ]
+}
